@@ -48,4 +48,4 @@ In the dynamic hospitality industry, City Hotel and Resort Hotel face a common c
 - 💼 Encourage direct bookings; offer discounts and loyalty programs.
 
 **Conclusion:**
-The journey from data analysis to actionable insights is a strategic one. By understanding cancellation patterns, hotels can tailor pricing, marketing, and service strategies for optimal revenue generation. Let's transform challenges into opportunities for growth! 💼📈✨
+The journey from data analysis to actionable insights is a strategic one. By understanding cancellation patterns, hotels can tailor pricing, marketing, and service strategies for optimal revenue generation. Let's transform challenges into opportunities for growth! 
